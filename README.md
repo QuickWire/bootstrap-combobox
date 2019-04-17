@@ -1,5 +1,6 @@
 
-#### bmiller, I hope to turn this into a "desktop combobox". Meaning the value won't be restricted to a list item. Ofcourse I still want to keep the awesome functionality.  
+#### bmiller, I changed the control to work like a real "desktop combobox". Meaning the value returned won't be restricted to a list item. Ofcourse all the awesome functionality is preserved.
+Now when `clearIfNoMatch` is true, the combobox value is passed to the form control whether it matches a list item or not.
 
 ---
 # Bootstrap Combobox
