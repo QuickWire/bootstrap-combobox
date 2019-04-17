@@ -1,3 +1,7 @@
+
+#### bmiller, I hope to turn this into a "desktop combobox". Meaning the value won't be restricted to a list item. Ofcourse I still want to keep the awesome functionality.  
+
+---
 # Bootstrap Combobox
 
 We had need of a combobox at work and after looking around at the available options I was not happy with any of them.  The project had all it's styling based on Twitter's Bootstrap, so building on that made sense.
